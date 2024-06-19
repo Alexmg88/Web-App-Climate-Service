@@ -1,10 +1,11 @@
 # WEB APP CLIMATE SERVICE
 
-# Web-App-Climate-Service
-La web de NEUSERVEI té com a objectiu proporcionar informació meteorològica específica i oportuna per als snowboarders, millorant la seva experiència i garantint la seva seguretat a les pistes. Aquest projecte està estretament vinculat a la geografia, ja que l'anàlisi dels patrons climàtics i geogràfics és essencial per oferir previsions precises.
+# NEUSERVEI - SNOW
+Com a objectiu principal, NEUSERVEI aspira a integrar el snowboard, un esport molt intens i de pràctica hivernal, amb les diverses condicions climàtiques que es poden trobar els seus practicants, com ara la neu fresca, la neu pols, la neu humida, el gel, la neu compactada, etc. La web esta composta per: 
 
 # Tema/Motivació
-L’objectiu de la web NEUSERVEI és proporcionar informació meteorològica específica i oportuna per als snowboarders, millorant la seva experiència a les pistes i garantint la seva seguretat. La motivació darrere d’aquest projecte és ajudar els aficionats als esports d’hivern a planificar les seves activitats amb confiança i seguretat, basant-se en dades climàtiques actualitzades. La vinculació amb la geografia és evident, ja que l'anàlisi i la comprensió dels patrons climàtics i geogràfics són fonamentals per oferir previsions acurades.
+
+Com a principal objectiu, tindriem que NEUSERVEI intenta connectar el snowboard, un esport que em fascina profundament, amb les condicions climàtiques essencials per a la seva pràctica segura i plaent. És una motivació personal intensa per a mi, ja que el snowboard no només és una passió, sinó una part integral de la meva vida. Crec fermament que proporcionar informació meteorològica específica i actualitzada pot millorar significativament la nostra experiència a les pistes. Aquest servei està dissenyat no només per ajudar als esportistes a planificar les seves jornades amb confiança, sinó també per potenciar la seguretat en un entorn que, tot i ser emocionant, requereix una comprensió precisa del clima. Amb NEUSERVEI, aspirem a crear un recurs que no només enriqueixi la pràctica del snowboard, sinó que també fomenti una connexió més profunda amb la natura i les condicions climàtiques que ens envolten.
 
 # Dades/continguts
 Les dades utilitzades a la web provenen de diverses fonts fiables, com ara serveis meteorològics nacionals, dades de satèl·lit, i estacions meteorològiques locals. Les fotos i altres continguts visuals han estat obtinguts de col·laboradors i bancs d’imatges autoritzats. Els textos han estat elaborats per experts en climatologia i geografia física per garantir la precisió i rellevància de la informació.
