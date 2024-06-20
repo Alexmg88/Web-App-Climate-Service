@@ -75,12 +75,51 @@ Nombrament de l'equip, amb les seves respectives fotos.
 **5. Contacte**:
 - Informació de contacte: Detalls per a la comunicació directa amb el servei NEUSERVEI.
 
-  
-# Web responsive
-Per assegurar que la web s’adapti a diferents dispositius, s’han utilitzat tècniques de disseny web responsiu, com ara les media queries i un sistema de reixeta (grid system). Les imatges s’han optimitzat en termes de resolució i mida per garantir una càrrega ràpida i una visualització adequada en diferents pantalles, des de mòbils fins a ordinadors de sobretaula.
+# Disseny Responsive a NEUSERVEI: Optimitzant l'Experiència en Tots els Dispositius
+
+A NEUSERVEI, ens preocupem profundament per proporcionar una experiència web intuitiva i efectiva per a tots els nostres usuaris, independentment del dispositiu que utilitzin. Per aconseguir-ho, hem implementat un disseny totalment responsive que s'adapta de manera dinàmica a qualsevol grandària de pantalla, des de grans monitors fins a tauletes i telèfons mòbils.
+
+Com ho hem aconseguit:
+
+**1. Adaptabilitat mitjançant Media Queries**:
+
+- Utilitzem ***media queries*** per ajustar el contingut en funció de la grandària de la pantalla. Per exemple, quan la pantalla és més petita (mòbils i tauletes), augmentem la mida del text dels títols a 24px per millorar la llegibilitat i ajustem l'amplada dels contenidors (.container i .containerTab) al 95% per evitar que el contingut desbordi la pantalla.
+- Augmentem la mida del text del contenidor del lema (#contenidorSlogan) a 5vw per adaptar-lo a l'ample de la pantalla del dispositiu mòbil.
+- Disposem els elements del menú de navegació en una columna (nav ul) i ajustem la seva amplada (nav li) al 100% per garantir una navegació fluida en pantalles més petites.
+- Ajustem la mida del text dins de les taules (.containerTab td, .containerTab th) a 18px per millorar la visualització en dispositius mòbils.
+- En dispositius més grans, com els ordinadors de sobretaula, optimitzem l'espai visual redueixent la grandària del text del lema i assegurant que els elements s'organitzin de manera coherent sense trencar el disseny.
+
+**2. Implementació de Bootstrap**:
+
+- Hem integrat el ***framework Bootstrap*** per simplificar la gestió del disseny responsive. Bootstrap ens permet estructurar els components de manera flexible i garantir una consistència visual en tota la nostra pàgina web.
+- Això inclou l'ús de classes que s'ajusten automàticament segons la mida del dispositiu, facilitant la disposició dels elements com les taules i els menús de navegació en formats que s'adaptin perfectament a cada pantalla.
 
 # Cartografia
-Els mapes que apareixen a la web han estat integrats utilitzant tecnologies com Leaflet i OpenStreetMap. Aquests mapes permeten una interacció dinàmica, permetent als usuaris explorar diferents zones i veure les condicions de neu en temps real. S’han elaborat amb dades geogràfiques precises per oferir una experiència rica i informativa.
+Per realitzar la cartografia per a NEUSERVEI, he seguit els següents passos detallats:
+
+**1. Cerca de Dades**:
+
+-Vaig buscar i vaig importar la capa de municipis per incloure els municipis de Pont de Suert i Espot.
+- Vaig utilitzar l'aplicació de Google Satèl·lit per a obtenir imatges detallades de les àrees pertinents.
+
+**2. Digitalització de Rutes**:
+
+- He digitalitzat totes les rutes que condueixen fins a les pistes d'esquí, tant per al municipi de Pont de Suert com per al de Espot. Això inclou la creació de camins digitals que reflecteixen amb precisió les rutes físiques.
+
+**3. Implementació de la Calculadora de Camps**:
+
+- He integrat la calculadora de camps a les diferents capes del mapa. Això em permet proporcionar dades clau com la superfície de les àrees, la distància entre punts rellevants i altres codis o indicadors necessaris per a l'anàlisi i la visualització detallada.
+
+**4. Aplicació del Complement QGIS2Web**:
+
+- Vaig instal·lar i activar el complement QGIS2Web, una eina essencial per a convertir els mapes creats a QGIS en formats web interactius.
+- Vaig configurar les capes del mapa dins de QGIS2Web per assegurar una visualització precisa i atractiva en el format web.
+
+**5.Exportació del Mapa Final**:
+
+- Finalment, vaig exportar el mapa complet en format zip. Aquesta exportació em permet adjuntar fàcilment el mapa final a la pàgina web de NEUSERVEI, garantint que els usuaris puguin explorar les rutes i les àrees d'interès amb facilitat i detall.
+
+Amb aquests passos, he assegurat que la cartografia per a NEUSERVEI no només sigui precisa i detallada, sinó també accessible i fàcil d'explorar pels usuaris interessats en les condicions i les rutes de les pistes d'esquí a Pont de Suert i Espot.
 
 # Dificultats/millores
 Durant el desenvolupament de la web, s’han trobat diverses dificultats, com ara la integració de dades en temps real i l'optimització del rendiment de la pàgina. S'han pres mesures per superar aquestes dificultats, com ara l'ús de tècniques de caché i l'optimització del codi. En termes de millores futures, es contempla ampliar la cobertura de dades i incorporar noves funcionalitats, com ara alertes personalitzades per als usuaris.
