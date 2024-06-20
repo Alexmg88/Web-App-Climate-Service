@@ -99,7 +99,7 @@ Per realitzar la cartografia per a NEUSERVEI, he seguit els següents passos det
 
 **1. Cerca de Dades**:
 
--Vaig buscar i vaig importar la capa de municipis per incloure els municipis de Pont de Suert i Espot.
+- Vaig buscar i vaig importar la capa de municipis per incloure els municipis de Pont de Suert i Espot.
 - Vaig utilitzar l'aplicació de Google Satèl·lit per a obtenir imatges detallades de les àrees pertinents.
 
 **2. Digitalització de Rutes**:
