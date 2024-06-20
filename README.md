@@ -42,14 +42,27 @@ Per buscar les característiques de les pistes properes a Espot i Pont de Suert,
 
 
 # Estructura de la Web
-La web està estructurada en diverses seccions per facilitar la navegació i l'accés a la informació:
 
-- Inici: Resum de les condicions meteorològiques actuals i previsions per als propers dies.
-- Mapes: Cartografia interactiva que mostra les condicions de neu en diferents localitzacions.
-- Consells de seguretat: Recomanacions per a la pràctica segura del snowboard.
-- Contacte: Formulari de contacte per als usuaris que necessitin més informació o vulguin fer consultes.
-S’han utilitzat elements visuals com taules i diagrames per representar les dades de manera clara i comprensible.
+L'estructura de la pàgina web de NEUSERVEI és la següent:
 
+**1. Inici**:
+- Introducció al projecte NEUSERVEI.
+- Descripció de l'objectiu del projecte: millorar l'experiència dels amants dels esports d'hivern proporcionant informació climàtica específica.
+
+**2. Membres**:
+- Informació sobre els experts associats al projecte, incloent professionals del sector climàtic, turístic i esportiu.
+
+**3. Projecte**:
+
+- Detalls del desenvolupament del projecte, la seva metodologia i localitzacions clau (el Pont de Suert i Espot).
+- Creació d'indicadors climàtics per a activitats hivernals.
+
+**4. Mapa (Pistes Snow)**:
+- Mapa interactiu amb informació sobre les pistes de neu.
+
+**5. Contacte**:
+- Formulari de contacte i informació per a la comunicació amb els responsables del projecte.
+  
 # Web responsive
 Per assegurar que la web s’adapti a diferents dispositius, s’han utilitzat tècniques de disseny web responsiu, com ara les media queries i un sistema de reixeta (grid system). Les imatges s’han optimitzat en termes de resolució i mida per garantir una càrrega ràpida i una visualització adequada en diferents pantalles, des de mòbils fins a ordinadors de sobretaula.
 
