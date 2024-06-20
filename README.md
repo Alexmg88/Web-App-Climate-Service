@@ -43,25 +43,38 @@ Per buscar les característiques de les pistes properes a Espot i Pont de Suert,
 
 # Estructura de la Web
 
-L'estructura de la pàgina web de NEUSERVEI és la següent:
-
 **1. Inici**:
+- Logotip de NEUSERVEI: Incloure el logotip distintiu de NEUSERVEI per a la identificació visual immediata (incorporat a totes les pestanyes).
+- Benvinguda i presentació: Text inicial que introdueix NEUSERVEI com a servei innovador dedicat a millorar l'experiència dels practicants de Snow a Espot i Pont de Suert.
 - Introducció al projecte NEUSERVEI.
 - Descripció de l'objectiu del projecte: millorar l'experiència dels amants dels esports d'hivern proporcionant informació climàtica específica.
+- Vídeo introductori: Incorporar el vídeo de YouTube de l'estació d'Espot per proporcionar als visitants una visió immersiva de l'entorn i les condicions de l'estació.
 
 **2. Membres**:
-- Informació sobre els experts associats al projecte, incloent professionals del sector climàtic, turístic i esportiu.
+Nombrament de l'equip, amb les seves respectives fotos.
+
+- ***Alex Moreno***: Geògraf especialitzat en climatologia i lideratge de recerca. Analitza els patrons climàtics per millorar la seguretat dels esquiadors.
+- ***Laura Sánchez***: Meteoròloga supervisora de dades i desenvolupadora de models predictius per a estacions d'esquí. Proporciona previsions detallades per a una planificació segura de l'esquí.
+- ***Marc Vidal***: Enginyer de sistemes que gestiona la infraestructura tecnològica per recopilar i distribuir informació climàtica.
+- ***Anna López***: Especialista en turisme de neu que millora les recomanacions i serveis per a una millor experiència dels esquiadors.
+- ***Jordi Puig***: Comunicador i facilitador de la comunicació amb el públic, millorant la comprensió de les condicions climàtiques per a l'esquí.
 
 **3. Projecte**:
 
-- Detalls del desenvolupament del projecte, la seva metodologia i localitzacions clau (el Pont de Suert i Espot).
-- Creació d'indicadors climàtics per a activitats hivernals.
+- ***3.1 Introducció***: Descripció detallada del servei climàtic i la seva importància per als esquiadors.
+- ***3.2 Elaboració d’índex***: Explicació de com s'elaboren els índexs de viabilitat climàtica.
+- ***3.3 Resultats***: Presentació gràfica i analítica dels resultats de l'índex per a Espot i Pont de Suert.
+- ***3.4 Diagrama de Gantt***: Seguiment visual de les tasques realitzades durant el desenvolupament del projecte.
+- ***3.5 Conclusions***: Resum de les conclusions obtingudes del projecte i recomanacions per a futurs desenvolupaments.
+
 
 **4. Mapa (Pistes Snow)**:
-- Mapa interactiu amb informació sobre les pistes de neu.
+- Ubicació geogràfica: Representació visual de les localitzacions clau del projecte (Espot i Pont de Suert).
+
 
 **5. Contacte**:
-- Formulari de contacte i informació per a la comunicació amb els responsables del projecte.
+- Informació de contacte: Detalls per a la comunicació directa amb el servei NEUSERVEI.
+
   
 # Web responsive
 Per assegurar que la web s’adapti a diferents dispositius, s’han utilitzat tècniques de disseny web responsiu, com ara les media queries i un sistema de reixeta (grid system). Les imatges s’han optimitzat en termes de resolució i mida per garantir una càrrega ràpida i una visualització adequada en diferents pantalles, des de mòbils fins a ordinadors de sobretaula.
