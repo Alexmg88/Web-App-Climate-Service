@@ -1,7 +1,7 @@
 # WEB APP CLIMATE SERVICE
 
 # NEUSERVEI - SNOW
-Com a objectiu principal, NEUSERVEI aspira a integrar el snowboard, un esport molt intens i de pràctica hivernal, amb les diverses condicions climàtiques que es poden trobar els seus practicants, com ara la neu fresca, la neu pols, la neu humida, el gel, la neu compactada, etc. La web esta composta per: 
+NEUSERVEI aspira a integrar el snowboard, un esport molt intens i de pràctica hivernal, amb les diverses condicions climàtiques que es poden trobar els seus practicants, com ara la neu fresca, la neu pols, la neu humida, el gel, la neu compactada, etc. 
 
 # Tema/Motivació
 
