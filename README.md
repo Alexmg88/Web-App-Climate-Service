@@ -122,7 +122,15 @@ Per realitzar la cartografia per a NEUSERVEI, he seguit els següents passos det
 Amb aquests passos, he assegurat que la cartografia per a NEUSERVEI no només sigui precisa i detallada, sinó també accessible i fàcil d'explorar pels usuaris interessats en les condicions i les rutes de les pistes d'esquí a Pont de Suert i Espot.
 
 # Dificultats/millores
-Durant el desenvolupament de la web, s’han trobat diverses dificultats, com ara la integració de dades en temps real i l'optimització del rendiment de la pàgina. S'han pres mesures per superar aquestes dificultats, com ara l'ús de tècniques de caché i l'optimització del codi. En termes de millores futures, es contempla ampliar la cobertura de dades i incorporar noves funcionalitats, com ara alertes personalitzades per als usuaris.
 
-# Pregunta
-Les preguntes dels usuaris s’han respost utilitzant un vocabulari tècnic específic i adequat al context de la geografia i la meteorologia. Això inclou termes com "isotermes", "pressió atmosfèrica", "precipitació nivosa", i "modelització climàtica", assegurant que la informació proporcionada sigui precisa i comprensible per als usuaris.
+**Dificultats**
+- Integrar dades meteorològiques actualitzades en temps real ha estat un repte significatiu. M'ha costat cercar dades climàtiques dels diferents municipis, ja que les peticions per obtenir aquestes dades a vegades triguaven en ser processades.
+Disseny Responsive:
+- El disseny responsive ha estat una altra àrea que ha suposat un desafiament durant el desenvolupament.
+
+**Millores futures**
+- Ampliació de la Cobertura de Dades, això inclou l'incorporació de més rutes detallades, punts d'interès i informació específica sobre les condicions de neu i meteorològiques.
+- Optimització Continuada del Disseny Responsive, continuaré treballant en l'optimització del disseny responsive per millorar l'adaptabilitat de la pàgina web a diversos dispositius i resolucions de pantalla.  
+
+**Conclusions**
+- El projecte NEUSERVEI exemplifica com la integració de coneixements de geografia en el desenvolupament d'una pàgina web pot crear un recurs potent per als usuaris interessats en esports d'hivern. Aprendre de la seva estructura clara, ús de dades interactives i adaptabilitat potencia la capacitat de crear recursos web informadors i engrescadors, connectant la geografia amb les necessitats pràctiques dels usuaris.
